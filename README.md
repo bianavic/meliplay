@@ -4,7 +4,7 @@ Bootcamp GO - Modulo Banco de Dados
 
 ## Diagrama Meliplay
 
-<img src="meliplay.png" title="diagrama">
+<img src="assets/diagrama.png" title="diagrama de entidade e relacionamento">
 
 ## Tarefas
 
