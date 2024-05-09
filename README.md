@@ -1,12 +1,12 @@
-# game-of-selects
+# [grupo 11] game-of-selects
 
 Bootcamp GO - Modulo Banco de Dados
 
-## Diagrama Meliplay
+### Diagrama Meliplay
 
 <img src="assets/diagrama.png" title="diagrama de entidade e relacionamento">
 
-## Tarefas
+### Tarefas
 
 #### Consultas sem joins: 1 ponto (deve haver 5 consultas dessa)
 1. Selecione todas as músicas do artista de id 1
