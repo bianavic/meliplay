@@ -2,7 +2,7 @@
 
 Bootcamp GO - Modulo Banco de Dados
 
-## Diagrama
+## Diagrama Meliplay
 
 <img src="meliplay.png" title="diagrama">
 
